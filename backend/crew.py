@@ -18,7 +18,7 @@ def create_laptop_crew(api_key: str, provider: str, user_profile: dict) -> Crew:
         elif provider == 'openai':
             api_key = os.environ.get("OPENAI_API_KEY")
         elif provider in ('kimi', 'nvidia_kimi'):
-            api_key = os.environ.get("NVIDIA_API_KEY") or "Paste API Key"
+            api_key = os.environ.get("NVIDIA_API_KEY") or "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"
 
     if not api_key:
         raise ValueError(f"API Key for {provider} not found. Please provide it in the UI or environment.")
