@@ -223,7 +223,7 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 **Faisal Sayyad**
 
-GitHub: [@sumitsartale4952](https://github.com/faisalsayyad03)
+GitHub: [@faisalsayyad03](https://github.com/faisalsayyad03)
 
 ---
 
