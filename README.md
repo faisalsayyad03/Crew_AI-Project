@@ -221,9 +221,9 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 ## 👤 Author
 
-**Sumit Sartale**
+**Faisal Sayyad**
 
-GitHub: [@sumitsartale4952](https://github.com/sumitsartale4952)
+GitHub: [@sumitsartale4952](https://github.com/faisalsayyad03)
 
 ---
 
